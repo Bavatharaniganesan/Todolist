@@ -1,0 +1,40 @@
+.container {
+    height: 350px;
+    width: 30%;
+    background-color: blue;
+    margin-left: 33%;
+    text-align: center;
+    border-radius: 20px;
+}
+
+input {
+    height: 30px;
+    width: 260px;
+}
+
+.button {
+    height: 50px;
+    width: 80px;
+}
+.mybutton {
+    float:right;
+    height: 50px;
+    width: 15%;
+    padding-top:0;
+}
+
+.new-container {
+    margin-top: 1%;
+    height: 50px;
+    width: 30%;
+    background-color: rgb(170, 27, 163);
+    margin-left: 33%;
+    text-align: left;
+}
+.ex1{
+    margin-left: 45%;
+    font-size: 38px;
+}
+.ex2{
+    font-size:20x;
+}
